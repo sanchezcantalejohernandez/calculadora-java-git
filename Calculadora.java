@@ -11,6 +11,7 @@ public class Calculadora {
             int operacion;
             System.out.println("=== CALCULADORA BÁSICA EN JAVA 2.00 ===");
             System.out.println("1. Suma");
+            // Corrección de bug de suma)
             System.out.println("2. Resta");
             System.out.println("3. Multiplicación");
             System.out.println("4. División");
